@@ -35,7 +35,7 @@
     - Bash: ![bahs](img/bash.JPG)
     - Markdown: ![markdown](img/md.JPG)
     - Yaml: ![Yaml](img/yaml.JPG)
-    - Jsonnet: ![Jsonnet](img/js.JPG)
+    - Jsonnet: ![Jsonnet](img/json.JPG)
 1. Добавьте свое имя в каждый файл, сделайте снимок экрана и загрузите его на любой сервис обмена картинками.
 1. Ссылки на картинки укажите в личном кабинете как решение домашнего задания. 
 
